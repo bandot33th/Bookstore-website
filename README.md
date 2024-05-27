@@ -1,7 +1,7 @@
 # Bookstore-website
 Welcome to the Bookstore Website repository! This project is a comprehensive, user-friendly web application designed for book lovers and bookstore owners. It offers an engaging platform to browse, search, and purchase books online.
 
-***Features*** /n
+# Features
 **User Features**
 1. Browse Books: Explore a wide range of books categorized by genres, authors, and bestsellers.
 2. Search Functionality: Quickly find books by title, or author.
