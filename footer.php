@@ -22,7 +22,7 @@
          <h3>contact info</h3>
          <p> <i class="fas fa-phone"></i> +123-456-7890 </p>
          <p> <i class="fas fa-phone"></i> +111-222-3333 </p>
-         <p> <i class="fas fa-envelope"></i> kelompok1@gmail.com </p>
+         <p> <i class="fas fa-envelope"></i> ihsanfauzi200.if47@gmail.com </p>
          <p> <i class="fas fa-map-marker-alt"></i> karawang, Indonesia</p>
       </div>
 
